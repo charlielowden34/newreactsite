@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/newreactsite/static/css/main.94925416.css",
-    "main.js": "/newreactsite/static/js/main.4447b07f.js",
+    "main.css": "/newreactsite/static/css/main.6704b7b3.css",
+    "main.js": "/newreactsite/static/js/main.ecd2f771.js",
     "static/js/453.35079a34.chunk.js": "/newreactsite/static/js/453.35079a34.chunk.js",
     "static/media/banner1.webp": "/newreactsite/static/media/banner1.61be1a362312d91a5318.webp",
     "static/media/banner3.webp": "/newreactsite/static/media/banner3.db3df3639f43f5459994.webp",
@@ -13,12 +13,12 @@
     "static/media/slick.ttf": "/newreactsite/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/newreactsite/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/newreactsite/index.html",
-    "main.94925416.css.map": "/newreactsite/static/css/main.94925416.css.map",
-    "main.4447b07f.js.map": "/newreactsite/static/js/main.4447b07f.js.map",
+    "main.6704b7b3.css.map": "/newreactsite/static/css/main.6704b7b3.css.map",
+    "main.ecd2f771.js.map": "/newreactsite/static/js/main.ecd2f771.js.map",
     "453.35079a34.chunk.js.map": "/newreactsite/static/js/453.35079a34.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94925416.css",
-    "static/js/main.4447b07f.js"
+    "static/css/main.6704b7b3.css",
+    "static/js/main.ecd2f771.js"
   ]
 }
