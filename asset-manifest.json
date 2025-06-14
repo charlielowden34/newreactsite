@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/newreactsite/static/css/main.9b9d7e11.css",
-    "main.js": "/newreactsite/static/js/main.54bfd089.js",
+    "main.js": "/newreactsite/static/js/main.41e6c2f7.js",
     "static/js/453.35079a34.chunk.js": "/newreactsite/static/js/453.35079a34.chunk.js",
     "static/media/banner1.webp": "/newreactsite/static/media/banner1.61be1a362312d91a5318.webp",
     "static/media/banner3.webp": "/newreactsite/static/media/banner3.db3df3639f43f5459994.webp",
@@ -14,11 +14,11 @@
     "static/media/slick.woff": "/newreactsite/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/newreactsite/index.html",
     "main.9b9d7e11.css.map": "/newreactsite/static/css/main.9b9d7e11.css.map",
-    "main.54bfd089.js.map": "/newreactsite/static/js/main.54bfd089.js.map",
+    "main.41e6c2f7.js.map": "/newreactsite/static/js/main.41e6c2f7.js.map",
     "453.35079a34.chunk.js.map": "/newreactsite/static/js/453.35079a34.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b9d7e11.css",
-    "static/js/main.54bfd089.js"
+    "static/js/main.41e6c2f7.js"
   ]
 }
