@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/newreactsite/static/css/main.4757d228.css",
-    "main.js": "/newreactsite/static/js/main.2eb59028.js",
+    "main.css": "/newreactsite/static/css/main.9b8fe7c2.css",
+    "main.js": "/newreactsite/static/js/main.e03ab2f9.js",
     "static/media/body-pattern.jpg": "/newreactsite/static/media/body-pattern.4f61be77bc31473f78ce.jpg",
     "static/media/banner1.webp": "/newreactsite/static/media/banner1.61be1a362312d91a5318.webp",
     "static/media/banner3.webp": "/newreactsite/static/media/banner3.db3df3639f43f5459994.webp",
@@ -13,11 +13,11 @@
     "static/media/slick.ttf": "/newreactsite/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/newreactsite/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/newreactsite/index.html",
-    "main.4757d228.css.map": "/newreactsite/static/css/main.4757d228.css.map",
-    "main.2eb59028.js.map": "/newreactsite/static/js/main.2eb59028.js.map"
+    "main.9b8fe7c2.css.map": "/newreactsite/static/css/main.9b8fe7c2.css.map",
+    "main.e03ab2f9.js.map": "/newreactsite/static/js/main.e03ab2f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.4757d228.css",
-    "static/js/main.2eb59028.js"
+    "static/css/main.9b8fe7c2.css",
+    "static/js/main.e03ab2f9.js"
   ]
 }
