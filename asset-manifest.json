@@ -1,7 +1,11 @@
 {
   "files": {
-    "main.css": "/newreactsite/static/css/main.9b4e30b4.css",
-    "main.js": "/newreactsite/static/js/main.6baa0fb2.js",
+    "main.css": "/newreactsite/static/css/main.7ed1b556.css",
+    "main.js": "/newreactsite/static/js/main.172fc7bb.js",
+    "static/media/banner3 (1).webp": "/newreactsite/static/media/banner3 (1).4e1e7539ae16f88c59cb.webp",
+    "static/media/banner1 (1).webp": "/newreactsite/static/media/banner1 (1).3bd4d98b21694c462a18.webp",
+    "static/media/banner-pattern.png": "/newreactsite/static/media/banner-pattern.4356d8eefae3189054fc.png",
+    "static/media/banner2 (1).webp": "/newreactsite/static/media/banner2 (1).0e776001cca7406ce84b.webp",
     "static/media/body-pattern.jpg": "/newreactsite/static/media/body-pattern.4f61be77bc31473f78ce.jpg",
     "static/media/banner1.webp": "/newreactsite/static/media/banner1.61be1a362312d91a5318.webp",
     "static/media/banner3.webp": "/newreactsite/static/media/banner3.db3df3639f43f5459994.webp",
@@ -13,11 +17,11 @@
     "static/media/slick.ttf": "/newreactsite/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/newreactsite/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/newreactsite/index.html",
-    "main.9b4e30b4.css.map": "/newreactsite/static/css/main.9b4e30b4.css.map",
-    "main.6baa0fb2.js.map": "/newreactsite/static/js/main.6baa0fb2.js.map"
+    "main.7ed1b556.css.map": "/newreactsite/static/css/main.7ed1b556.css.map",
+    "main.172fc7bb.js.map": "/newreactsite/static/js/main.172fc7bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b4e30b4.css",
-    "static/js/main.6baa0fb2.js"
+    "static/css/main.7ed1b556.css",
+    "static/js/main.172fc7bb.js"
   ]
 }
