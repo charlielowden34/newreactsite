@@ -1,27 +1,29 @@
 {
   "files": {
-    "main.css": "/newreactsite/static/css/main.7ed1b556.css",
-    "main.js": "/newreactsite/static/js/main.172fc7bb.js",
-    "static/media/banner3 (1).webp": "/newreactsite/static/media/banner3 (1).4e1e7539ae16f88c59cb.webp",
-    "static/media/banner1 (1).webp": "/newreactsite/static/media/banner1 (1).3bd4d98b21694c462a18.webp",
+    "main.css": "/newreactsite/static/css/main.ce06699f.css",
+    "main.js": "/newreactsite/static/js/main.91d28f4c.js",
     "static/media/banner-pattern.png": "/newreactsite/static/media/banner-pattern.4356d8eefae3189054fc.png",
-    "static/media/banner2 (1).webp": "/newreactsite/static/media/banner2 (1).0e776001cca7406ce84b.webp",
     "static/media/body-pattern.jpg": "/newreactsite/static/media/body-pattern.4f61be77bc31473f78ce.jpg",
-    "static/media/banner1.webp": "/newreactsite/static/media/banner1.61be1a362312d91a5318.webp",
-    "static/media/banner3.webp": "/newreactsite/static/media/banner3.db3df3639f43f5459994.webp",
+    "static/media/pexels-ron-lach-10638069.webp": "/newreactsite/static/media/pexels-ron-lach-10638069.8c131f98817801bc8927.webp",
+    "static/media/pexels-sejio402-6477212.webp": "/newreactsite/static/media/pexels-sejio402-6477212.8a1a461c734a8d56edad.webp",
+    "static/media/pexels-godiatima-4955393.webp": "/newreactsite/static/media/pexels-godiatima-4955393.c4c57217cd05645271ad.webp",
+    "static/media/pexels-thisisengineering-3861951.webp": "/newreactsite/static/media/pexels-thisisengineering-3861951.5a6affdc644d675c4bcf.webp",
     "static/media/logo.webp": "/newreactsite/static/media/logo.bc06b882862346c9a717.webp",
-    "static/media/banner2.webp": "/newreactsite/static/media/banner2.82dea25e75b685ebbc29.webp",
+    "static/media/lg.svg?io9a6k": "/newreactsite/static/media/lg.09cd8e9be7081f216644.svg",
+    "static/media/lg.woff?io9a6k": "/newreactsite/static/media/lg.356a0e9cb064c7a196c6.woff",
+    "static/media/lg.ttf?io9a6k": "/newreactsite/static/media/lg.747d038541bfc6bb8ea9.ttf",
     "static/media/logo.svg": "/newreactsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/lg.woff2?io9a6k": "/newreactsite/static/media/lg.64b800aa30714fd916dc.woff2",
     "static/media/slick.svg": "/newreactsite/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/newreactsite/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/newreactsite/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/newreactsite/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/newreactsite/index.html",
-    "main.7ed1b556.css.map": "/newreactsite/static/css/main.7ed1b556.css.map",
-    "main.172fc7bb.js.map": "/newreactsite/static/js/main.172fc7bb.js.map"
+    "main.ce06699f.css.map": "/newreactsite/static/css/main.ce06699f.css.map",
+    "main.91d28f4c.js.map": "/newreactsite/static/js/main.91d28f4c.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ed1b556.css",
-    "static/js/main.172fc7bb.js"
+    "static/css/main.ce06699f.css",
+    "static/js/main.91d28f4c.js"
   ]
 }
